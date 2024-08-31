@@ -3,7 +3,7 @@ function User(){
        <div> 
            <h1> Ma. Erica J. Cruz</h1>
            <h2> BSIT - 3B</h2>
-           <p>  Description</p>
+           <p>  I am a IT student</p>
    
        </div>
     )
